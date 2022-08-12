@@ -1,5 +1,5 @@
 # Hola! Soy Cristian Vanegas! 👋
- # FrontEnd Developer de Colombia
+ # Desarrollador Full Stack de Colombia
  
  ## Tech Skills ⚔💻
  - Scrum methodology
