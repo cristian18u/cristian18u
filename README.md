@@ -18,7 +18,7 @@
  - Sequelize
  
  ## My Projects
- ### [FrontEnd] SoundWave - Streaming Music
+ ### [BackEnd] SoundWave - Streaming Music
 [Link to the website](https://soundwave-swart.vercel.app/)
 [Link to repository](https://github.com/SoundWavePF)
  
